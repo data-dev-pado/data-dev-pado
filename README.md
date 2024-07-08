@@ -1,7 +1,5 @@
-## This is JongHun👋
+## This is JongHun
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JongHun&fontSize=90)
-
-Here are some ideas to get you started:
 
 - Brigham Young University - Idaho : Business Management & Data Science (class of 2023)
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 
@@ -18,3 +16,5 @@ Here are some ideas to get you started:
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+![mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
