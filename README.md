@@ -12,10 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=lete-bonvogage)](https://git.io/streak-stats)-->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 # Data
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
