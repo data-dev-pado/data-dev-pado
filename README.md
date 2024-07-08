@@ -1,5 +1,5 @@
 ## This is JongHun👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JongHun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=red&height=300&section=header&text=JongHun&fontSize=90)
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 
 - 
 - 
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)
 
