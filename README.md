@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=200&section=header&text=This is JongHun Lee!&fontSize=50" />
-<!--
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 **lete-bonvoyage/lete-bonvoyage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=200&section=footer&text=Data Analyst / Data Scientist / Data Engineer !&fontSize=50" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)
