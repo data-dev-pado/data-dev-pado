@@ -19,8 +19,8 @@
 
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![R]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white))
-![python]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![R]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white])
+![python]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white])
 
 
 
