@@ -16,18 +16,16 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 
 
-***
-<a href="https://github.com/lete-bonvoyage/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
+*** 
 <a href="https://github.com/lete-bonvoyage/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JongHun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/lete-bonvoyage/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JongHun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-***
-# Data
+
+
+#Data
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -37,7 +35,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-# ML/DL
+#ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
