@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is JongHun👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JongHun&fontSize=90)
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
