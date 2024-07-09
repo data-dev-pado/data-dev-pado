@@ -14,11 +14,20 @@
   Machine Learning, Deep Learning  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage" alt="Top Langs" style="height: 195px;"/>
+  </a>
+  <a href="https://github.com/lete-bonvoyage/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage" alt="Anurag's GitHub stats" style="height: 195px;"/>
+  </a>
+</div>
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/lete-bonvoyage/github-readme-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=lete-bonvogage)](https://git.io/streak-stats)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/lete-bonvoyage/github-readme-stats)
+
 
 ### Data
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
