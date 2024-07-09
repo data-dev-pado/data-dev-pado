@@ -13,7 +13,6 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=lete-bonvogage)](https://git.io/streak-stats)-->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/lete-bonvoyage/github-readme-stats)
 
 ### Data
@@ -55,6 +54,8 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 
 ### Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
