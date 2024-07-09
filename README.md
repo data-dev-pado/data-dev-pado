@@ -1,19 +1,18 @@
 ## This is JongHun
-
- <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JongHun&fontSize=90)
 
-- Brigham Young University - Idaho : Business Management & Data Science (class of 2023)
-- 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 
-- Interest : Data Science, Data Visualization, Data Analytics, Data Engineering 
--  
-- 
-- 
-- 
+
+
+<h3 align="center">Education</h3>
+<p align="center">
+  Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
+  프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
+</p>
+
+- Interest :
+  Data Science, Data Visualization, Data Analytics, Data Engineering,
+  Machine Learning, Deep Learning  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)
 
