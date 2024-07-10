@@ -1,5 +1,5 @@
 ## This is JongHun
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=JongHun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JongHun&fontSize=90)
 
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
@@ -56,4 +56,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
