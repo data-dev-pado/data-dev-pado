@@ -12,15 +12,12 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=ADFF2F&text_color=A4C4EE" alt="Top Langs" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="400"/>
   </a>
   <a href="https://github.com/lete-bonvoyage/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ADFF2F&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
   </a>
 </div>
-
-
-
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/lete-bonvoyage/github-readme-stats)-->
@@ -61,6 +58,5 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=springtowinter)](https://velog.io/@springtowinter/posts)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
