@@ -56,4 +56,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer)
