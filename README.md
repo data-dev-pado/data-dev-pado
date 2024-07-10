@@ -12,21 +12,14 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF" alt="Top Langs" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=ADFF2F&text_color=A4C4EE" alt="Top Langs" height="200"/>
   </a>
   <a href="https://github.com/lete-bonvoyage/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ADFF2F&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
   </a>
 </div>
 
-<!--<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage" alt="Top Langs" height="200"/>
-  </a>
-  <a href="https://github.com/lete-bonvoyage/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage" alt="Anurag's GitHub stats" height="200"/>
-  </a>
-</div>--
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
