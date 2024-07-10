@@ -3,12 +3,9 @@
 
 
 
-<h3 align="center">Education</h3>
-<p align="center">
-  Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
-  프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
-</p>
 
+- Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
+- 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
 - Interest :
   Data Science, Data Visualization, Data Analytics, Data Engineering,
   Machine Learning, Deep Learning  
