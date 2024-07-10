@@ -1,9 +1,6 @@
 ## This is JongHun
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JongHun&fontSize=90)
 
-
-
-
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
 - Interest :
@@ -12,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="300"/>
   </a>
   <a href="https://github.com/lete-bonvoyage/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
