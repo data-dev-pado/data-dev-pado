@@ -10,15 +10,23 @@
   Data Science, Data Visualization, Data Analytics, Data Engineering,
   Machine Learning, Deep Learning  
 
-
 <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF" alt="Top Langs" height="200"/>
+  </a>
+  <a href="https://github.com/lete-bonvoyage/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
+  </a>
+</div>
+
+<!--<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage" alt="Top Langs" height="200"/>
   </a>
   <a href="https://github.com/lete-bonvoyage/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage" alt="Anurag's GitHub stats" height="200"/>
   </a>
-</div>
+</div>--
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -27,7 +35,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=lete-bonvogage)](https://git.io/streak-stats)-->
 
 
-### Data
+#### Data
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -37,7 +45,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-### ML/DL
+#### ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -46,15 +54,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-### Front-End
+#### Front-End
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-### Framework
+#### Framework
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-### Others
+#### Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
