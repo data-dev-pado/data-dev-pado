@@ -13,12 +13,13 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage" alt="Top Langs" style="height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage" alt="Top Langs" width="400"/>
   </a>
   <a href="https://github.com/lete-bonvoyage/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage" alt="Anurag's GitHub stats" style="height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lete-bonvoyage" alt="Anurag's GitHub stats" width="400"/>
   </a>
 </div>
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lete-bonvoyage)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lete-bonvoyage)](https://github.com/lete-bonvoyage/github-readme-stats)-->
