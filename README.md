@@ -5,9 +5,10 @@
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
 - Interest 
   - Data Science
-  - Data Visualization
   - Data Analytics
+  - Data Visualization, BI
   - Data Engineering
+    
   - Machine Learning
   - Deep Learning  
 
