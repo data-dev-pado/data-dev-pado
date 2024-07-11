@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JongHun&fontSize=90)
 
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
-- 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정
+- 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02)
 - Interest 
   - Data Science
   - Data Analytics
