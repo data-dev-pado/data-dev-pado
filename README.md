@@ -1,4 +1,4 @@
-## This is JongHun
+## Hello, this is JongHun Lee
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JongHun&fontSize=90)
 
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
