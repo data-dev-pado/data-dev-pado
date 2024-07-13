@@ -4,13 +4,13 @@
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02)
 - Interest 
-  - Data Science
-  - Data Analytics
+  - ✡ Data Science
+  - ✡ Data Analytics
   - Data Visualization, BI
   - Data Engineering
     
-  - Machine Learning
-  - Deep Learning  
+  - ✡ Machine Learning
+  - ✡ Deep Learning  
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
