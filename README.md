@@ -8,7 +8,6 @@
   - ✡ Data Analytics
   - Data Visualization, BI
   - Data Engineering
-    
   - ✡ Machine Learning
   - ✡ Deep Learning  
 
