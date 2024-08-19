@@ -1,4 +1,4 @@
-## Hello, World
+## Hello
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JongHun&fontSize=90)
 
 ## Education
