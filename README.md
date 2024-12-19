@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Data%20Analyst%20JongHun%20Lee&fontSize=60)
 
 # 데이터 분석가 이종훈 입니다
-**Email** : data.jonghun.lee@gmail.com
-**Github** : https://github.com/Jan-to-Dec
-**Linkedin** : https://www.linkedin.com/in/jonghunlee/
+**Email** : data.jonghun.lee@gmail.com  
+**Github** : [Jan-to-Dec](https://github.com/Jan-to-Dec)  
+**Linkedin** : [Jonghun Lee](https://www.linkedin.com/in/jonghunlee/) 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
