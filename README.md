@@ -1,5 +1,4 @@
-## Hello
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JongHun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Data%20Analyst%20JongHun%20Lee&fontSize=70)
 
 ## Education
 - Brigham Young University - Idaho: Business Management & Data Science (class of 2023)<br>
