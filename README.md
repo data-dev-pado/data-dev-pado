@@ -65,7 +65,7 @@
 ---
 ## Education
 
-#### Brigham Young University - Idaho: (Major) Business Management & (Minor) Data Science (class of 2023)<br>
+#### Brigham Young University - Idaho: (Major) Business Management & (Minor) Data Science (class of 2023)  2020.04 ~ 2023.12 <br>
 
 #### 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02 - 아이티윌 강남
 
@@ -81,4 +81,11 @@
 - Tableau 신병훈련소
 
 - 코칭스터디 <Data Science 2024>
+
+---
+## Certificate
+GAIQ 
+
+
+
   
