@@ -19,19 +19,13 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Jan-to-Dec)](https://git.io/streak-stats)-->
 
-
 ## Education
 - Brigham Young University - Idaho: (Major) Business Management & (Minor) Data Science (class of 2023)<br>
 - 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02)
 - Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2025.12)
 
-## Interest
-  - ✡ Data Science
-  - ✡ Data Analytics
-  - Data Visualization, BI
-  - Data Engineering
-  - ✡ Machine Learning
-  - ✡ Deep Learning  
+## Summary
+2024 하반기 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
 
 ## Skills 
 한번 이상 다루어 본 기술 및 툴
@@ -71,3 +65,4 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
+
