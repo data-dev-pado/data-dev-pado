@@ -62,6 +62,17 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
 
+- SQL을 이용하여 데이터 정제, 가공, 분석
+- BigQuery에서 SQL 이용해 데이터 가공, 분석
+- MySQL을 이용해 데이터 가공, 분석
+- Pandas 이용해서 데이터 처리
+- Numpy와 Matplotlib을 이용한 데이터 처리 및 시각화 경험
+- Pandas를 활용한 데이터 정제, 변환, 분석 경험
+- Scikit-learn을 사용한 머신러닝 모델 구현 및 평가
+- Tableau를 활용한 대시보드 설계
+- R을 활용한 데이터 전처리 및 탐색적 데이터 분석
+- R을 활용한 T-test 및 일원배치 분산분석(ANOVA) 수행 경험
+  
 ---
 ## Education
 
