@@ -97,18 +97,19 @@
 
 --- 
 ### Study 🦁🦁
-- [Data Science Society](https://byuidss.github.io/Projects.html)
+[Data Science Society](https://byuidss.github.io/Projects.html)
   
-- Android 스터디
+Android 스터디
 교육자료 : [안드로이드 베이직 with Kotlin](https://developer.android.com/courses/android-basics-compose/course?hl=ko&authuser=4)
 
-- Tableau 신병훈련소
-KMOOC
-- 파이썬과 데이터마이닝
-- [빅데이터를 위한 확률과 통계](https://lms.kmooc.kr/local/ubonline/kcert.php?id=13110)
-- 
+Tableau 신병훈련소
 
-- 코칭스터디 <Data Science 2024>
+KMOOC
+- 파이썬과 데이터마이닝 (2024.04.08 - 2024.07.26)
+- 빅데이터를 위한 확률과 통계 (2024.07.22 - 2024.09.15)
+- 딥러닝의 깊이 있는 이해를 위한 머신러닝 (2024.09.01 - 2024.12.31)
+  
+코칭스터디 <Data Science 2024>
 
 ---
 ## Certificate
