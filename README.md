@@ -103,6 +103,10 @@
 교육자료 : [안드로이드 베이직 with Kotlin](https://developer.android.com/courses/android-basics-compose/course?hl=ko&authuser=4)
 
 - Tableau 신병훈련소
+KMOOC
+- 파이썬과 데이터마이닝
+- [빅데이터를 위한 확률과 통계](https://lms.kmooc.kr/local/ubonline/kcert.php?id=13110)
+- 
 
 - 코칭스터디 <Data Science 2024>
 
