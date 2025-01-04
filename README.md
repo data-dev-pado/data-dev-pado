@@ -20,7 +20,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Jan-to-Dec)](https://git.io/streak-stats)-->
 ---
 ## Summary
-2024 하반기 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
+2025 상반기 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
 
 ---
 ## Skills 
