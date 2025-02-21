@@ -2,7 +2,7 @@
 
 # 데이터 분석가 이종훈 입니다
 **Email** : data.jonghun.lee@gmail.com  <br>
-**Github** : https://github.com/Jan-to-Dec <br>
+**Github** : https://github.com/data-dev-JH <br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 <div align="center">
