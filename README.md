@@ -9,13 +9,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-to-Dec&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="300"/>
   </a>
-  <a href="https://github.com/Jan-to-Dec/github-readme-stats">
+  <a href="https://github.com/data-dev-JH/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Jan-to-Dec&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
   </a>
 </div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-to-Dec)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/Jan-to-Dec/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/data-dev-JH/github-readme-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Jan-to-Dec)](https://git.io/streak-stats)-->
 ---
