@@ -2,22 +2,22 @@
 
 # 데이터 분석가 이종훈 입니다
 **Email** : data.jonghun.lee@gmail.com  <br>
-**Github** : https://github.com/Jan-to-Dec <br>
+**Github** : https://github.com/data-dev-pado<br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-to-Dec&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-dev-pado&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="300"/>
   </a>
   <a href="https://github.com/Jan-to-Dec/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jan-to-Dec&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=data-dev-pado&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
   </a>
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-to-Dec)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/Jan-to-Dec/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-to-Dec)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Jan-to-Dec)](https://git.io/streak-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-dev-pado)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-dev-pado)](https://github.com/Jan-to-Dec/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-dev-pado)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=data-dev-pado)](https://git.io/streak-stats)-->
 ---
 ## Summary
 2025 상반기 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
