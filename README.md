@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Data%20Analyst%20JongHun%20Lee&fontSize=60)
 
-# 데이터 분석가 이종훈 입니다
+# Data Scientist / Data Analyst / Data engineer 
+
 **Email** : data.jonghun.lee@gmail.com  <br>
 **Github** : https://github.com/data-dev-pado<br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
