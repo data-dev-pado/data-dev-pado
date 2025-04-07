@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Data%20Analyst%20JongHun%20Lee&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=JongHun%20Lee&fontSize=60)
 
 # Data Scientist / Data Analyst / Data engineer 
 
