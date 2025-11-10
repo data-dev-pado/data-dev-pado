@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=JongHun%20Lee&fontSize=60)
 
-# Data Scientist(ML/AI Engineer) / Data Analyst 
+# Data Scientist(ML/AI Engineer) 
 
 **Email** : data.jonghun.lee@gmail.com  <br>
 **Github** : https://github.com/data-dev-pado<br>
