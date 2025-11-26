@@ -6,15 +6,6 @@
 **Github** : https://github.com/data-dev-pado<br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-dev-pado&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE" alt="Top Langs" height="200" width="300"/>
-  </a>
-  <a href="https://github.com/Jan-to-Dec/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=data-dev-pado&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=A4C4EE&icon_color=00FFFF" alt="Anurag's GitHub stats" height="200"/>
-  </a>
-</div>
-
 ---
 ## Summary
 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
