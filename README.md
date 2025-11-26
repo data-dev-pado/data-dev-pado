@@ -15,10 +15,6 @@
   </a>
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-dev-pado)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-dev-pado)](https://github.com/Jan-to-Dec/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-dev-pado)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=data-dev-pado)](https://git.io/streak-stats)-->
 ---
 ## Summary
 데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
