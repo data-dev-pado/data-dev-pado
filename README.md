@@ -59,7 +59,7 @@
 Android 스터디
 교육자료 : [안드로이드 베이직 with Kotlin](https://developer.android.com/courses/android-basics-compose/course?hl=ko&authuser=4)
 
-Tableau 신병훈련소
+Tableau 신병훈련소(Tableau Bootcamp)
 
 KMOOC
 - 파이썬과 데이터마이닝 (2024.04.08 - 2024.07.26)
