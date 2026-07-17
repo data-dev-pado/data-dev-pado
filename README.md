@@ -7,6 +7,24 @@
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 ---
+## Education
+
+#### Brigham Young University - Idaho <br>
+(Major) Business Management & (Minor) Data Science (class of 2023)  2020.04 ~ 2023.12 <br>
+
+#### 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02 - 아이티윌 강남)
+  - SQL <br>
+  - Python <br>
+  - 텍스트마이닝 <br>
+  - R  <br>
+  - Machine Learning  <br>
+  - Tensorflow  <br>
+  - Hadoop & Linux <br>
+  - Tableau <br>
+  
+#### Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2026.12 졸업예정)
+
+--- 
 ## Skills 
 
 #### Data
@@ -36,24 +54,6 @@
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white"/></a>
   
 ---
-## Education
-
-#### Brigham Young University - Idaho <br>
-(Major) Business Management & (Minor) Data Science (class of 2023)  2020.04 ~ 2023.12 <br>
-
-#### 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정(2024.02.07 ~ 2024.08.02 - 아이티윌 강남)
-  - SQL <br>
-  - Python <br>
-  - 텍스트마이닝 <br>
-  - R  <br>
-  - Machine Learning  <br>
-  - Tensorflow  <br>
-  - Hadoop & Linux <br>
-  - Tableau <br>
-  
-#### Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2026.12 졸업예정)
-
---- 
 ### Study 🦁🦁
 [Data Science Society](https://byuidss.github.io/Projects.html)
   
