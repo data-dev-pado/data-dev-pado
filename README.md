@@ -25,6 +25,9 @@
 #### Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2026.12 졸업예정)
 
 --- 
+- Data Science Society 
+- Computer Science society
+---
 ## Skills 
 
 #### Data
