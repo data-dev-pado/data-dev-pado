@@ -26,7 +26,7 @@
 
 --- 
 - Data Science Society 
-- Computer Science society
+- Computer Science Society
 ---
 ## Skills 
 
